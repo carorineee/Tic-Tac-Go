@@ -1,6 +1,6 @@
 # Tic-Tac-Go
 
-This is a simple command line Tic-tac-toe game I wrote to explore Golang. To play the game, install Golang and run
+This is a simple command line Tic-tac-toe game I wrote to explore Golang. To play the game, install Golang, set the GOPATH to this repo and run
 
 ```go build game.go```
 
